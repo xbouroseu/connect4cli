@@ -4,12 +4,11 @@
 2. Levels 1-10: How many moves ahead for the CPU to search.
 
 ## Installation & Usage
-### 
+### Clone repository and run
 ```sh
-$ git clone https://github.com/xbouroseu/connect4cli
-$ cd connect4cli
-$ make
-$ ./connect4
-$ -----Follow CLI instructions-----
+git clone https://github.com/xbouroseu/connect4cli
+cd connect4cli
+make
+./connect4
 ```
 
