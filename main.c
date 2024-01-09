@@ -1,3 +1,4 @@
+// Copyright 2012
 #include <stdio.h>
 #include <stdlib.h>
 #define N 7
